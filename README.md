@@ -6,14 +6,11 @@
 
 ## Подход к решению
 * Анализ современных тенденций и трендов для охвата максимальной аудитории *в основном детей*
-<!--more-->
 
-<div>
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2402_RC03/embed_loader.js"></script>
-  <script type="text/javascript">
+<script type="text/javascript">
     trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/g/11f555cn8l","geo":"RU","time":"2017-01-01 2020-11-20"}],"category":0,"property":""}, {"exploreQuery":"date=2017-01-01%202020-11-20&geo=RU&q=%2Fg%2F11f555cn8l","guestPath":"https://trends.google.com:443/trends/embed/"});
 </script>
-</div>
 
 
 * Анализ социальных сетей и выбор платформы для рекламы *график о том как хайпанул тик-ток*
